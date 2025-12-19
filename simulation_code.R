@@ -1,4 +1,3 @@
-setwd("/data/wusijia/simulation/weak")
 
 library(foreach)
 library(readr)
