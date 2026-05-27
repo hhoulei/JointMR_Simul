@@ -1,5 +1,7 @@
-**R Scripts for JointMR Analysis and Data Formats**  
+****R Scripts for JointMR Analysis and Data Formats****  
+
 This repository contains R scripts for JointMR simulations and real-data applications, along with the required input data format specifications.    
+
 Article: JointMR: A joint likelihood-based approach for causal effect estimation using multiple GWAS summary databases in Mendelian randomization. Sijia Wu, Lei Hou, Hongkai Li, Fuzhong Xue  
 
 
