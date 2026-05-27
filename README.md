@@ -9,7 +9,7 @@ This repository contains R scripts for **JointMR simulations** and **real-data a
 
 <br>
 
-## Table S5. Code files and corresponding analyses
+## Table 1. Code files and corresponding analyses
 
 | Code file | Purpose | Corresponding output |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ This repository contains R scripts for **JointMR simulations** and **real-data a
 
 <br>
 
-## Table S6. Required input data format for the real-data application
+## Table 2. Required input data format for the real-data application
 
 | Field | Description | Use in the workflow |
 | :--- | :--- | :--- |
