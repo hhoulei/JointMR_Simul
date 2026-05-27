@@ -21,7 +21,7 @@ Table 1. Code files and corresponding illustration
 | ple-plugin-JointMR-plot.R | Plotting script for the horizontal-pleiotropy simulation. | Figure 4 and Figure S10 |
 | relaxed-nome-ple-JointMR.R | Simulation under the relaxed-NOME setting, allowing uncertainty in SNP-exposure effects and additional covariance components induced by exposure-exposure and exposure-outcome correlations. | Main and supplementary plots for the relaxed-NOME analyses (Figure 5-6 and Figure S11-13). |
 | relaxed-nome-ple-JointMR-plot.R | Plotting script for the relaxed-NOME simulations. | Figure 5-6 and Figure S11-13 |
-| application-final.Rapplication-run.R | Real-data application to blood lipid traits and type 2 diabetes. | Application estimates, heterogeneity diagnostics, pleiotropy diagnostics and relaxed-NOME estimates. |
+| application-final.R and application-run.R | Real-data application to blood lipid traits and type 2 diabetes. | Application estimates, heterogeneity diagnostics, pleiotropy diagnostics and relaxed-NOME estimates. |
 
  Table 2. Required input data format for the real-data application
 | Field | Description | Use in the workflow |
